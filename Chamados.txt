@@ -68,5 +68,28 @@ OBS: Verificado pequenas manchas e falhas de impressão, será necessário a tro
 
 ------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
+Incidente: 159704 - MZ - Multifuncional - Casa da Memória - Inv. ...   30/01/2024
+Resumo : MZ - Multifuncional - Casa da Memória - Inv. 169505 
+
+Realizado a limpeza química da cabeça de impressão e identificado defeito na mesma, verificado que a impressora estava com tinta de má qualidade gerando falhas e entupimento da cabeça de impressão, identificado nos dois últimos chamados a troca da cabeça de impressão devido a tinta ruim. 
+
+Segue os incidentes: 
+
+INV. 169505 - INC. 719221 - MT - 02/Maio/2023 (30141)
+
+INV. 169505 - INC. 127510 - MT - 24/Novembro/2023 (129551)
+
+Realizado novamente a troca da cabeça de impressão, esgotado todos os tanques de tinta, colocado um pouco de tinta original Epson, limpeza de cabeçote, troca da almofada, reset, feito testes, imprimindo corretamente.
+
+-------------------------------------------
+
+ATENÇÃO!
+
+Esta impressora está utilizando tinta de baixa qualidade, utilize tinta original EPSON. Tintas genéricas tem baixa qualidade de impressão, causa falhas e entupimentos constantes no cabeçote.
+
+-------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------
 
