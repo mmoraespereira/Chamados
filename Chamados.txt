@@ -67,7 +67,6 @@ OBS: Verificado pequenas manchas e falhas de impressão, será necessário a tro
 
 
 ------------------------------------------------------------------------------------------------------------------------
-testeste &&&&&&
 
 
 
