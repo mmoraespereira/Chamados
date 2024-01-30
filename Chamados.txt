@@ -1,0 +1,73 @@
+
+------------------------------------------------------------------------------------------------------------------------
+Incidente: 131080 - BV - Multifuncional - EM CEI Romario Martins ...
+Resumo : BV - Multifuncional - EM CEI Romario Martins - Inv:195535  17/01/2023
+
+Realizado a limpeza interna, limpeza química da cabeça de impressão, retirado ar dos dampers, troca do pick up roller e retardo, troca do cabo flat do encoder, troca da almofada, reset, limpeza de cabeçote. Identificado nos testes de impressão que a tinta utilizada é de má qualidade gerando falhas, feito testes com tinta original, imprimindo corretamente.
+-------------------------------------------
+ATENÇÃO!
+Esta impressora está utilizando tinta de baixa qualidade, utilize tinta original EPSON. Tintas genéricas tem baixa qualidade de impressão, causa falhas e entupimentos constantes no cabeçote.
+-------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+Incidente: 154015 - MZ - Impressora - Solar do Barão - Inv. 08952...   18/01/2024
+Resumo : MZ - Impressora - Solar do Barão - Inv. 089527  
+
+Realizado a configuração do ip, feito testes de impressão, copia, duplex, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Incidente: 73352 - BQ - MULTIFUNCIONAL - EM Jardim Europa - INV....  19/01/2024
+Resumo : BQ - MULTIFUNCIONAL - EM Jardim Europa - INV. 98612
+
+Realizado a troca da engrenagem pião frame e dupla, feito testes de impressão, copia, duplex, adf, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+Requisição: 156548 - MZ - Scanner - AI Delta - Inv. 97709  19/01/2024  Pendençia:157549 
+
+Realizado a verificação interna e identificado que o kit rolete de alimentação está com defeito, será necessário a troca.
+
+Para realizar a manutenção do equipamento será necessário substituir peças que por sua natureza não fazem parte do estoque regular do I.C.I. Devido ao tempo de utilização determinados equipamentos poderão necessitar de componentes que já estejam fora de linha de produção dos fabricantes. Para evitar o descarte do equipamento, o ICI efetua uma busca rigorosa junto a fornecedores parceiros, o que pode acarretar em um tempo maior para a devolução. Agradecemos pela compreensão e nos colocamos à disposição para eventuais esclarecimentos.
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+Requisição: 156557 - MZ - Impressora - AI SMAP - Inv. 132693 22/01/2024
+
+Verificado conector usb, instalado o driver, feito testes de comunicação, imprimindo corretamente, não apresentou problema.
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+Incidente: 155977 - BQ - Impressora - Casa da Leitura Wilson Mart...
+Resumo : BQ - Impressora - Casa da Leitura Wilson Martins - Inv. 063423  23/01/2024
+
+Verificado placa logica, cabo flat porem esta apresentando erro de cartucho. Será necessário a troca dos cartuchos, feito testes de digitalização, scanner funcionando corretamente. 
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+
+Incidente: 135626 - CJ - Impressora - CMEI Moradias Iguaçu - INV:...
+Resumo : CJ - Impressora - CMEI Moradias Iguaçu - INV: 128090    25/01/2024
+
+Retirado ar dos dampers, limpeza do reservatório de tinta, troca do pick up roller e  retardo, troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+Incidente: 139766 - BV - Impressora - Cmei Heloina Greca - Inv: 1...   26/01/2024
+Resumo : BV - Impressora - Cmei Heloina Greca - Inv: 150893
+
+Realizado a troca da película, feito testes de impressão, copia, duplex e adf, imprimindo corretamente.
+
+OBS: Verificado pequenas manchas e falhas de impressão, será necessário a troca do cilindro.
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
