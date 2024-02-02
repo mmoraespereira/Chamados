@@ -103,3 +103,10 @@ Realizado a manutenção na guilhotina, feito testes, imprimindo corretamente.
 
 -----------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------
+Incidente: 164568 - SF - Multifuncional - EM Foz do Iguaçu - Inv:... 07/02/2024
+Resumo : SF - Multifuncional - EM Foz do Iguaçu - Inv:204014
+
+Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------
+
