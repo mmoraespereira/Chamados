@@ -110,3 +110,42 @@ Resumo : SF - Multifuncional - EM Foz do Iguaçu - Inv:204014
 Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
 -----------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------
+Incidente: 184656 - CIC - Multifuncional - Escola Municipal Marcal Justen - INV: 161334  06/03/2024
+
+Realizado a tentativa de downgrade de firmware, porem apresenta o erro de scanner 100016.
+
+Seu equipamento apresenta problemas de hardware que requerem intervenção de empresa especializada.
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+Incidente: 184331 - CIC - Multifuncional - CMEI Vila Verde - Inv:... 06/03/2024
+Resumo : CIC - Multifuncional - CMEI Vila Verde - Inv: 155716
+
+Verificado os dampers, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+Incidente: 183678 - BN - Multifuncional - CMEI Rosy Terezinha Bia...  Pendencia:188810  
+Resumo : BN - Multifuncional - CMEI Rosy Terezinha Bially - Inv: 193782  06/03/2024 
+
+Realizado testes e identificado que a placa lógica está queimada, será necessário a troca.
+
+Para realizar a manutenção do equipamento será necessário substituir peças que por sua natureza não fazem parte do estoque regular do I.C.I. Devido ao tempo de utilização determinados equipamentos poderão necessitar de componentes que já estejam fora de linha de produção dos fabricantes. Para evitar o descarte do equipamento, o ICI efetua uma busca rigorosa junto a fornecedores parceiros, o que pode acarretar em um tempo maior para a devolução. Agradecemos pela compreensão e nos colocamos à disposição para eventuais esclarecimentos.
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+Incidente: 182885 - BN - Multifuncional - EM Paulo Rogerio Guimar...
+Resumo : BN - Multifuncional - EM Paulo Rogerio Guimaraes Esmanhoto - Inv: 156442 06/03/2024 Pendencia:188815  
+
+Realizado a verificação interna e identificado que a engrenagem do sistema de carga está com defeito, será necessário a troca.
+
+Para realizar a manutenção do equipamento será necessário substituir peças que por sua natureza não fazem parte do estoque regular do I.C.I. Devido ao tempo de utilização determinados equipamentos poderão necessitar de componentes que já estejam fora de linha de produção dos fabricantes. Para evitar o descarte do equipamento, o ICI efetua uma busca rigorosa junto a fornecedores parceiros, o que pode acarretar em um tempo maior para a devolução. Agradecemos pela compreensão e nos colocamos à disposição para eventuais esclarecimentos.
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
+Incidente: 184350 - TQ - Multifuncional - EM João Amazonas - Inv:...
+Resumo : TQ - Multifuncional - EM João Amazonas - Inv: 204538     06/03/2024
+
+Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------
+
+
