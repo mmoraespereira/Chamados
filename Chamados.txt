@@ -147,5 +147,29 @@ Resumo : TQ - Multifuncional - EM João Amazonas - Inv: 204538     06/03/2024
 
 Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
 -----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+Incidente: 186489 - CJ - Impressora - EM Madre Antonia - Inv: 957... Pendencia:189279  07/03/2024
+Resumo : CJ - Impressora - EM Madre Antonia - Inv: 95740
+
+Verificado a unidade fusora, e identificado que o rolo fusor, pressor e rolamento estão danificados, será necessário a troca.
+
+Para realizar a manutenção do equipamento será necessário substituir peças que por sua natureza não fazem parte do estoque regular do I.C.I. Devido ao tempo de utilização determinados equipamentos poderão necessitar de componentes que já estejam fora de linha de produção dos fabricantes. Para evitar o descarte do equipamento, o ICI efetua uma busca rigorosa junto a fornecedores parceiros, o que pode acarretar em um tempo maior para a devolução. Agradecemos pela compreensão e nos colocamos à disposição para eventuais esclarecimentos.
+
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
+Incidente: 186966 - CIC - MULTIFUNCIONAL - CMEI Barigui - Inv: 13...
+Resumo : CIC - MULTIFUNCIONAL - CMEI Barigui - Inv: 132011    07/06/2024
+
+Retirado ar dos dampers, limpeza do pick up roller, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
+Incidente: 185933 - BN - Multifuncional - EM Paulo Freire - Inv: ...
+Resumo : BN - Multifuncional - EM Paulo Freire - Inv: 147983   07/03/2024
+
+Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------
 
 
