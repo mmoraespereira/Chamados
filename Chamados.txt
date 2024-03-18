@@ -171,5 +171,142 @@ Resumo : BN - Multifuncional - EM Paulo Freire - Inv: 147983   07/03/2024
 
 Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
 -----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+Incidente: 187247 - CJ - MULTIFUNCIONAL - Cmei Vila Camargo - Inv... 08/03/2024
+Resumo : CJ - MULTIFUNCIONAL - Cmei Vila Camargo - Inv. 149337            Aguardando toner.
+
+Realizado a verificação interna e não encontrado problemas de umidade porem ao ligar está apresentado erro de toner.
+
+OBS: Impressora ficara no aguardo de outro toner para teste.
+
+-----------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+Incidente: 187415 - MZ - MULTIFUNCIONAL - Cmei Vereadora Nely Alm...
+Resumo : MZ - MULTIFUNCIONAL - Cmei Vereadora Nely Almeida - INV: 179821 08/03/2024
+
+Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+Incidente: 188368 - BQ - Multifuncional - CMEI Elias José - Inv:1...   11/03/2024
+Resumo : BQ - Multifuncional - CMEI Elias José - Inv:144389
+
+Realizado a limpeza, retirado ar dos dampers, troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Incidente: 188782 - CIC - GSD - Impressora - EM Ditmar Brepohl - ...
+Resumo : CIC - GSD - Impressora - EM Ditmar Brepohl - Inv 214335  11/03/2024
+
+Verificado os dampers,limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Incidente: 187586 - BV - Impressora - EM Júlia Amaral Di Lenna - ...  Pendençia:192003 11/03/2024
+Resumo : BV - Impressora - EM Júlia Amaral Di Lenna - Inv: 97334
+
+Realizado a verificação interna e identificado que a engrenagem pião dupla e frame estava danifica, realizado a troca, porém ao realizar testes verificado que o toner esta com barulho, feito testes com outro toner e identificado manchas na impressão sendo causadas pelo rolo fusor, no qual será necessário a troca.
+
+Para realizar a manutenção do equipamento será necessário substituir peças que por sua natureza não fazem parte do estoque regular do I.C.I. Devido ao tempo de utilização determinados equipamentos poderão necessitar de componentes que já estejam fora de linha de produção dos fabricantes. Para evitar o descarte do equipamento, o ICI efetua uma busca rigorosa junto a fornecedores parceiros, o que pode acarretar em um tempo maior para a devolução. Agradecemos pela compreensão e nos colocamos à disposição para eventuais esclarecimentos.
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+Incidente: 188429 - BV - Multifuncional - CMEI Santa Efigenia - I... 11/03/2024
+Resumo : BV - Multifuncional - CMEI Santa Efigenia - Inv: 193798
+
+Realizado a limpeza, retirado ar dos dampers, feito a troca da almofada, reset, feito testes, imprimindo corretamente.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+
+Incidente: 190472 - PN - Multifuncional - EM Madre Maria dos Anjo...
+Resumo : PN - Multifuncional - EM Madre Maria dos Anjos - Inv: 156394   12/03/2024
+
+Verificado os dampers, feito a manutenção na bomba de limpeza, limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Incidente: 190209 - CIC - MULTIFUNCIONAL - Escola Municipal Mansu...
+Resumo : CIC - MULTIFUNCIONAL - Escola Municipal Mansur Guérios - Inv: 189906   12/03/2024
+
+Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Incidente: 191940 - PN - MULTIFUNCIONAL - EM PIRATINI - Inv: 231... 12/03/2024
+Resumo : PN - MULTIFUNCIONAL - EM PIRATINI - Inv: 231130
+
+Verificado que as tinta preta estava contaminada, esgotado a mesma, colocado um pouco de tinta original Epson, limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+OBS: Realizar o abastecimento de tinta preta. 	
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+Incidente: 191763 - BV - Multifuncional - EM JULIA AMARAL DI LENN...
+Resumo : BV - Multifuncional - EM JULIA AMARAL DI LENNA - Inv.: 174993 13/03/2024
+
+Retirado ar dos dampers, feito a troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+Incidente: 192682 - CIC - Impressora - EM Joaquim Távora - Inv.: ... 13/03/2024
+Resumo : CIC - Impressora - EM Joaquim Távora - Inv.: 184840
+
+Retirado ar dos dampers, feito a manutenção na bomba de limpeza, troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Incidente: 192422 - BQ - Multifuncional - CMEI Conjunto Araucaria...
+Resumo : BQ - Multifuncional - CMEI Conjunto Araucaria - Inv. 156591   14/03/2024
+
+Realizado a limpeza do reservatório de tinta, retirado ar dos dampers, feito a troca da almofada, reset, limpeza de  cabeçote, feito testes, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Incidente: 191971 - SF - Multifuncional - Cmei Santos Andrade - I...
+Resumo : SF - Multifuncional - Cmei Santos Andrade - Inv: 168200   14/03/2024
+
+Retirado ar dos dampers, feito a manutenção na bomba de limpeza, troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Incidente: 190554 - SF - Multifuncional - Cmei União das Vilas - ...
+Resumo : SF - Multifuncional - Cmei União das Vilas - Inv. 168666   14/03/2024
+
+Retirado ar dos dampers, limpeza de cabeçote, feito testes, imprimindo corretamente.
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Incidente: 192232 - BQ - MULTIFUNCIONAL - EM Leonor Castellano - ...  15/03/2024
+Resumo : BQ - MULTIFUNCIONAL - EM Leonor Castellano - Inv: 156526
+
+Realizado a verificação interna e identificado que a mola do sensor de saida do papel estava solta, encaixado novamente, feito testes de impressão, copia, duplex, adf, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Incidente: 194000 - CIC - MULTIFUNCIONAL - Escola Municipal Pro M...
+Resumo : CIC - MULTIFUNCIONAL - Escola Municipal Pro Morar Barigui - INV: 168833 15/03/2024
+
+Realizado a limpeza do reservatório de tinta, troca do pick up roller, troca da almofada, reset, limpeza de cabeçote, feito testes, imprimindo corretamente.
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+Incidente: 194016 - BV - Impressora - Em Professor Herley Mehl -...   15/03/2024
+Resumo : BV - Impressora - Em Professor Herley Mehl - Inv. 94857
 
 
+Ao realizar testes identificado que o toner estava mal conectado gerando o atolamento, reconectado novamente, feito testes, imprimindo corretamente. 
+
+------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------
+Incidente: 193630 - BQ - Multifuncional - CMEI Demawe - Inv 172...   18/03/2024
+Resumo : BQ - Multifuncional - CMEI Demawe - Inv 172287
+
+Realizado testes e verificado que o modulo scanner estava travado, feito a manutenção, limpeza química do cabeçote, feito testes, imprimindo corretamente.
+
+
+------------------------------------------------------------------------------------------------------------
